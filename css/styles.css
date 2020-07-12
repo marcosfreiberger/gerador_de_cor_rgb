@@ -1,0 +1,64 @@
+h1 {
+  padding-top: 2rem;
+  padding-left: 5rem;
+}
+
+#principal {
+  padding-left: 50px;
+}
+
+input[type="range"] {
+  width: 18em;
+  margin-bottom: 5px;
+  margin-left: 20px;
+  vertical-align: middle;
+}
+
+input[type="number"] {
+  width: 50px;
+  margin-bottom: 5px;
+}
+
+#r {
+  background-color: rgb(255, 0, 0);
+}
+
+#g {
+  background-color: rgb(0, 255, 0);
+}
+
+#b {
+  background-color: rgb(0, 0, 255);
+}
+
+#box {
+  width: 150px;
+  height: 150px;
+  background: rgb(0, 0, 0);
+  margin: 30px 0px 0px 100px;
+}
+
+@media only screen and (max-width: 390px) {
+  #box {
+    width: 150px;
+    height: 150px;
+    background: rgb(0, 0, 0);
+    margin: 30px 0px 0px 60px;
+  }
+
+  h1 {
+    padding-top: 2rem;
+    padding-left: 3rem;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  #principal {
+    padding-left: 20px;
+  }
+
+  h1 {
+    padding-top: 2rem;
+    padding-left: 1rem;
+  }
+}
