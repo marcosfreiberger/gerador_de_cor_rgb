@@ -23,4 +23,5 @@ Access the link to test: https://marcosfreiberger.github.io/gerador_de_cor_rgb/
 
 
 ---
+
 Developed with 💙 by Marcos N. Freiberger
