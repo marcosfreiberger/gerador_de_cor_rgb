@@ -21,5 +21,6 @@ With this simple activity, we were able to manipulate the rgb scale through rang
 
 Access the link to test: https://marcosfreiberger.github.io/gerador_de_cor_rgb/
 
+
 ---
 Developed with 💙 by Marcos N. Freiberger
